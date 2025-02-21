@@ -6,6 +6,7 @@ import Footer from './components/footer';
 
 const App = () => {
   return (
+<<<<<<< HEAD
     <div>
       <LocationSection />
       <SectionContent />
@@ -13,5 +14,14 @@ const App = () => {
     </div>
   );
 };
+=======
+    <>
+      <h1 className="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+    </>
+  )
+}
+>>>>>>> 23a0154b0448f82ce9589bd9f5947ff5e862bbfd
 
 export default App;
